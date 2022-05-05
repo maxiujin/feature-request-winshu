@@ -1,0 +1,12 @@
+.feature-list {
+    list-style: none;
+    margin:2rem ;
+    padding: 0;
+  }
+  
+  .feature-list li {
+    margin:1rem 0;
+    border: 1px solid #e39932;
+    padding:1rem;
+  
+  }
