@@ -4,7 +4,7 @@ import "./App.css";
 
 import Features from "./Components/Features/Features";
 import NewFeatures from "./Components/NewFeatures/NewFeatures";
-import logo from "./resources/winshu-logo.jpg";
+import logo from "./resources/winshu-brand-logo.png";
 
 const App = () => {
   const [featureRequests, setFeatureRequest] = useState([

@@ -8,5 +8,8 @@
     margin:1rem 0;
     border: 1px solid #e39932;
     padding:1rem;
+    background-color:coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
   
   }
